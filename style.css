@@ -1,0 +1,28 @@
+* {
+    color:green;
+}
+
+body {
+    background-color: black;
+}
+
+#lobot-container {
+    display:flex;
+    margin:50px;
+    background-color:lightgray;
+    color:black;
+    max-width: 50px;
+    max-height: 50px;
+    min-width: 650px;
+    min-height: 500px;
+    padding:5px;
+    border-radius: 5px;
+    border: 4px solid gray;
+}
+
+#lobot-text {
+    min-width: inherit;
+    min-height: inherit;
+    background-color: inherit;
+    border:none;
+}
