@@ -32,6 +32,5 @@ window.onload = () => {
         lobot_text.select();
         lobot_text.setSelectionRange(0, 9999);
         document.execCommand('copy');
-        alert('attempted');
     }
 }
